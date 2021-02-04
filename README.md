@@ -9,6 +9,36 @@ https://www.python.org/ftp/python/3.9.1/python-3.9.1-macosx10.9.pkg
 ####Ejecutar 
 `$pip3 install -r requirements.txt`
 
+Crear las bases de datos por medio de:
+
+`$python create_db.py`
+
+se crearán las bases de datos:
+
+        **registers**
+        -------------
+        id
+        db_name
+        email_owner
+        email_manager
+        classification
+
+        **user**
+        -------------
+        id
+        email
+        name
+        age
+        phone
+
+        **user_manager**
+        -------------
+        id
+        user_id
+        user_state
+        user_manager_email
+
+
 Esto instalará la base de datos y la consola
 
 `$pip3 install -r requirements.txt`
@@ -29,5 +59,11 @@ https://github.com/Nataly423/Melic/blob/main/demo.json
 `$python3 read_json.py demo.json`
 
 Finalmente podemos validar en un gestor de bases de datos, con el archivo database.db
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
 
+Revisar el registro final en la tabla user_manager:
+`$SELECT * FROM user_manager`
+
+![alt text](http://url/to/img.png)
 
