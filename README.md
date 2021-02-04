@@ -63,6 +63,7 @@ Finalmente podemos validar en un gestor de bases de datos, con el archivo databa
 ![alt text](https://github.com/Nataly423/Melic/blob/main/2.png)
 
 Revisar el registro final en la tabla user_manager:
+
 `$SELECT * FROM user_manager`
 
 ![alt text](https://github.com/Nataly423/Melic/blob/main/3.png)
