@@ -6,7 +6,7 @@ Python 🐍
 Instalar python 
 https://www.python.org/ftp/python/3.9.1/python-3.9.1-macosx10.9.pkg
 
-####Ejecutar 
+#### Ejecutar 
 `$pip3 install -r requirements.txt`
 
 Crear las bases de datos por medio de:
@@ -15,7 +15,7 @@ Crear las bases de datos por medio de:
 
 se crearán las bases de datos:
 
-        **registers**
+        registers
         -------------
         id
         db_name
@@ -23,7 +23,7 @@ se crearán las bases de datos:
         email_manager
         classification
 
-        **user**
+        user
         -------------
         id
         email
@@ -31,7 +31,7 @@ se crearán las bases de datos:
         age
         phone
 
-        **user_manager**
+        user_manager
         -------------
         id
         user_id
