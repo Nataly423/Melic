@@ -1,0 +1,32 @@
+[
+    {
+        "db_name": "retiros",
+        "email_owner": "nathaly1@demo.com",
+        "classification": "high"
+    },
+    {
+        "db_name": "pagos",
+        "email_owner": "nathaly2@demo.com",
+        "classification": "low"
+    },
+    {
+        "db_name": "gastos",
+        "email_owner": "nathaly3@demo.com",
+        "classification": "low"
+    },
+    {
+        "db_name": "recortes",
+        "email_owner": "nathaly4@demo.com",
+        "classification": "high"
+    },
+    {
+        "db_name": "usuarios",
+        "email_owner": "nathaly5@demo.com",
+        "classification": "low"
+    },
+    {
+        "db_name": "personal",
+        "email_owner": "nathaly6@demo.com",
+        "classification": "high"
+    }
+]
