@@ -71,5 +71,5 @@ Revisar el registro final en la tabla user_manager:
 Enviar correos, esto buscará los registros en **clasification** en estado en **high** y enviara el correo a sus managers
 
 `python3 send_email.py`
-![alt text](https://github.com/Nataly423/Melic/blob/main/4.png)
 
+![alt text](https://github.com/Nataly423/Melic/blob/main/4.png)
